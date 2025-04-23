@@ -1,4 +1,5 @@
 Name: Kavin T
 Reg.No: 24MCR053
 Dept: MCA
-Fav.Topic: Git & Github
+Fav.Topic: Git & GitHub
+Workshop: Attended
